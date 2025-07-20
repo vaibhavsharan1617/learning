@@ -1,4 +1,4 @@
 package com.TestProject1.entity;
 
-public class test1 {
+public class Test2 {
 }
